@@ -1,5 +1,10 @@
-# Not-So-Fancy-Cereals- [Cereals] (cerealss.jpg)
+# Not-So-Fancy-Cereals- [Cereals](Data/cerealss.jpg)
 The viz talks about cereals which we love to have on our plate daily for breakfast. The presence of various nutrients like Protein, Carbohydrates, Fibres, Sugar, Calories, Fat content etc. and their impact on the ratings of these Cereals. Wanna check out how healthy your favourite cereal is? Do check out the Tableau Viz for a summary and Python notebook for learning purposes :)
+
+# Folders
+Data - Comprising of the original dataset used for working on the world of Cereals
+
+Script - Notebook and tableau worksheet
 
 # Source Links
 
